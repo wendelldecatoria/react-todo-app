@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+This project is based on the Laracasts lesson [Beginning React] (https://laracasts.com/series/beginning-react). 
+
+See [drehimself/lc-react](https://laracasts.com/series/beginning-react) for the series git repo.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
